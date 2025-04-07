@@ -22,7 +22,7 @@ cd AINotes
 2. Install the dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 3. Run the backend server:
@@ -36,7 +36,7 @@ uvicorn main:app --reload
 
 ```bash
 cd frontend
-python main.py
+python3 main.py
 ```
 
 ## Configuration
